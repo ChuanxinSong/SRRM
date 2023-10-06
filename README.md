@@ -1,5 +1,5 @@
 # SRRM
-[IJCNN 2023] [SRRM: Semantic Region Relation Model for Indoor Scene Recognition] (https://ieeexplore.ieee.org/document/10191605)
+[IJCNN 2023] [SRRM: Semantic Region Relation Model for Indoor Scene Recognition](https://ieeexplore.ieee.org/document/10191605)
 
 The code of SRRM model has been uploaded. Please wait for subsequent updates of other codes.
 
