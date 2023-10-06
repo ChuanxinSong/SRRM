@@ -12,4 +12,4 @@ Please cite the following paper if you feel this repository useful for your rese
 
 # Acknowledges
 
-This repo contains modified codes from: [SAS-Net]([vpulab/Semantic-Aware-Scene-Recognition: Code repository for paper https://www.sciencedirect.com/science/article/pii/S0031320320300613 @ Pattern Recognition 2020 (github.com)](https://github.com/vpulab/Semantic-Aware-Scene-Recognition)).
+This repo contains modified codes from: [SAS-Net](https://github.com/vpulab/Semantic-Aware-Scene-Recognition).
