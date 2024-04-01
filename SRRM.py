@@ -15,7 +15,7 @@ class SemBranch_9(nn.Module):
 
         # Semantic Branch
         self.in_block_sem = nn.Sequential(
-            nn.MaxPool2d(kernel_size=2, stride=2, padding=0), # Adaptive Confidence Filter
+            nn.MaxPool2d(kernel_size=2, stride=2, padding=0),
             nn.Conv2d(semantic_classes, 256, kernel_size=7, stride=2,  padding=3, bias=False),
             nn.BatchNorm2d(256),
             nn.ReLU(inplace=True),
